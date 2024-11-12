@@ -62,7 +62,7 @@ background-color: #0056b3;
 <body>
 
 <div class="articulo">
-<img src="https://www.google.com/search?q=jardin+&sca_esv=2d8cb97d50a81fba&rlz=1C1ONGR_esMX1033MX1033&udm=2&biw=1440&bih=739&sxsrf=ADLYWIIW0Vwins2A2rmbKesLkpoWDFtFqA%3A1731397885962&ei=_QgzZ667OtPEp84PrtHJOQ&ved=0ahUKEwjurdTfp9aJAxVT4skDHa5oMgcQ4dUDCBA&uact=5&oq=jardin+&gs_lp=EgNpbWciB2phcmRpbiAyBBAjGCcyChAAGIAEGEMYigUyChAAGIAEGEMYigUyCxAAGIAEGLEDGIMBMgoQABiABBhDGIoFMggQABiABBixAzIIEAAYgAQYsQMyCBAAGIAEGLEDMgsQABiABBixAxiDATIIEAAYgAQYsQNIvQtQ1glY1glwAngAkAEAmAFToAFTqgEBMbgBA8gBAPgBAZgCA6ACdMICBhAAGAcYHsICBRAAGIAEmAMAiAYBkgcBM6AH4wY&sclient=img#vhid=QCzwPR27pCcIjM&vssid=mosaic" alt="JARDIN">
+<img src="jardin.jpg" alt="JARDIN">
 <div class="contenido">
             
 <h2 style="text-align: center;"> JARDIN </h2>
