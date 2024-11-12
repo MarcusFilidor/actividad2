@@ -68,7 +68,7 @@ background-color: #0056b3;
 <h2 style="text-align: center;"> JARDIN </h2>
             
 <p>Un jardin es un espacio al aire libre diseñado y cultivado con plantas, flores, arboles y cesped, generalmente para el disfrute estetico, la relajacion o el cultivo de alimentos. 
-Puede ser de diferentes tamaños y estilos, y su proposito es crear un entorno agradable, natural y decorativo. Los jardines pueden incluir caminos, fuentes, bancos y otros elementos que complementan el paisaje.</p>
+Puede ser de diferentes tamaños y estilos, y su proposito es crear un entorno agradable, natural y decorativo. Los jardines pueden incluir caminos, fuentes, bancos y otros elementos que complementan el paisaje. Los jardines no solo cumplen una función estética o práctica, sino que también tienen un impacto positivo en el bienestar emocional y psicológico de las personas. Se ha demostrado que interactuar con la naturaleza tiene efectos beneficiosos en la salud mental, y un jardín puede ser un refugio perfecto para lograr estos efectos. Algunos de estos beneficios incluyen:  *Reducción del estrés y la ansiedad: Estar en contacto con un jardín, rodeado de plantas y flores, puede reducir significativamente los niveles de estrés. La simple presencia de vegetación tiene un efecto calmante, ayudando a disminuir la tensión y promoviendo una sensación de tranquilidad. Las investigaciones han demostrado que observar la naturaleza o el tiempo pasar en espacios verdes reduce la presión arterial y los niveles de cortisol. </p>
             
 <a href="#" class="leer-mas"> Leer mas...</a>
         
